@@ -1,0 +1,7 @@
+C:\Users\EQUIPO\source\repos\24\26\obj\Debug\26.csproj.CoreCompileInputs.cache
+C:\Users\EQUIPO\source\repos\24\26\bin\Debug\26.exe.config
+C:\Users\EQUIPO\source\repos\24\26\bin\Debug\26.exe
+C:\Users\EQUIPO\source\repos\24\26\bin\Debug\26.pdb
+C:\Users\EQUIPO\source\repos\24\26\obj\Debug\26.csprojAssemblyReference.cache
+C:\Users\EQUIPO\source\repos\24\26\obj\Debug\26.exe
+C:\Users\EQUIPO\source\repos\24\26\obj\Debug\26.pdb

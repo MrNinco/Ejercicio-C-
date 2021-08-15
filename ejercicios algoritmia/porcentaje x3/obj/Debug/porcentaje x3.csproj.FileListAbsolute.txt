@@ -1,0 +1,7 @@
+c:\users\equipo\source\repos\ejercicios algoritmia\porcentaje x3\obj\Debug\porcentaje x3.csproj.CoreCompileInputs.cache
+c:\users\equipo\source\repos\ejercicios algoritmia\porcentaje x3\bin\Debug\porcentaje x3.exe.config
+c:\users\equipo\source\repos\ejercicios algoritmia\porcentaje x3\bin\Debug\porcentaje x3.exe
+c:\users\equipo\source\repos\ejercicios algoritmia\porcentaje x3\bin\Debug\porcentaje x3.pdb
+c:\users\equipo\source\repos\ejercicios algoritmia\porcentaje x3\obj\Debug\porcentaje x3.exe
+c:\users\equipo\source\repos\ejercicios algoritmia\porcentaje x3\obj\Debug\porcentaje x3.pdb
+c:\users\equipo\source\repos\ejercicios algoritmia\porcentaje x3\obj\Debug\porcentaje x3.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+c:\users\equipo\source\repos\ejercicios algoritmia\calcular el porciento\obj\Debug\calcular el porciento.csproj.CoreCompileInputs.cache
+c:\users\equipo\source\repos\ejercicios algoritmia\calcular el porciento\bin\Debug\calcular el porciento.exe.config
+c:\users\equipo\source\repos\ejercicios algoritmia\calcular el porciento\bin\Debug\calcular el porciento.exe
+c:\users\equipo\source\repos\ejercicios algoritmia\calcular el porciento\bin\Debug\calcular el porciento.pdb
+c:\users\equipo\source\repos\ejercicios algoritmia\calcular el porciento\obj\Debug\calcular el porciento.csprojAssemblyReference.cache
+c:\users\equipo\source\repos\ejercicios algoritmia\calcular el porciento\obj\Debug\calcular el porciento.exe
+c:\users\equipo\source\repos\ejercicios algoritmia\calcular el porciento\obj\Debug\calcular el porciento.pdb

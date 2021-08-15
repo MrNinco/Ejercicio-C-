@@ -1,0 +1,6 @@
+c:\users\equipo\source\repos\ejercicios algoritmia\Movimiento rectilinio\bin\Debug\Movimiento rectilinio.exe.config
+c:\users\equipo\source\repos\ejercicios algoritmia\Movimiento rectilinio\bin\Debug\Movimiento rectilinio.exe
+c:\users\equipo\source\repos\ejercicios algoritmia\Movimiento rectilinio\bin\Debug\Movimiento rectilinio.pdb
+c:\users\equipo\source\repos\ejercicios algoritmia\Movimiento rectilinio\obj\Debug\Movimiento rectilinio.csproj.CoreCompileInputs.cache
+c:\users\equipo\source\repos\ejercicios algoritmia\Movimiento rectilinio\obj\Debug\Movimiento rectilinio.exe
+c:\users\equipo\source\repos\ejercicios algoritmia\Movimiento rectilinio\obj\Debug\Movimiento rectilinio.pdb

@@ -1,0 +1,7 @@
+C:\Users\EQUIPO\source\repos\ejercicios algoritmia\Area de un cuadrado\bin\Debug\Area de un cuadrado.exe.config
+C:\Users\EQUIPO\source\repos\ejercicios algoritmia\Area de un cuadrado\bin\Debug\Area de un cuadrado.exe
+C:\Users\EQUIPO\source\repos\ejercicios algoritmia\Area de un cuadrado\bin\Debug\Area de un cuadrado.pdb
+C:\Users\EQUIPO\source\repos\ejercicios algoritmia\Area de un cuadrado\obj\Debug\Area de un cuadrado.csprojAssemblyReference.cache
+C:\Users\EQUIPO\source\repos\ejercicios algoritmia\Area de un cuadrado\obj\Debug\Area de un cuadrado.csproj.CoreCompileInputs.cache
+C:\Users\EQUIPO\source\repos\ejercicios algoritmia\Area de un cuadrado\obj\Debug\Area de un cuadrado.exe
+C:\Users\EQUIPO\source\repos\ejercicios algoritmia\Area de un cuadrado\obj\Debug\Area de un cuadrado.pdb

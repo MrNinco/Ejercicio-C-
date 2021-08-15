@@ -1,0 +1,6 @@
+c:\users\equipo\source\repos\ejercicios algoritmia\multiplicar 3 numeros\obj\Debug\multiplicar 3 numeros.csproj.CoreCompileInputs.cache
+c:\users\equipo\source\repos\ejercicios algoritmia\multiplicar 3 numeros\bin\Debug\multiplicar 3 numeros.exe.config
+c:\users\equipo\source\repos\ejercicios algoritmia\multiplicar 3 numeros\bin\Debug\multiplicar 3 numeros.exe
+c:\users\equipo\source\repos\ejercicios algoritmia\multiplicar 3 numeros\bin\Debug\multiplicar 3 numeros.pdb
+c:\users\equipo\source\repos\ejercicios algoritmia\multiplicar 3 numeros\obj\Debug\multiplicar 3 numeros.exe
+c:\users\equipo\source\repos\ejercicios algoritmia\multiplicar 3 numeros\obj\Debug\multiplicar 3 numeros.pdb

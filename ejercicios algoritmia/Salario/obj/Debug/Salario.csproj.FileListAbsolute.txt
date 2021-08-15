@@ -1,0 +1,7 @@
+C:\Users\EQUIPO\source\repos\ejercicios algoritmia\Salario\bin\Debug\Salario.exe.config
+C:\Users\EQUIPO\source\repos\ejercicios algoritmia\Salario\bin\Debug\Salario.exe
+C:\Users\EQUIPO\source\repos\ejercicios algoritmia\Salario\bin\Debug\Salario.pdb
+C:\Users\EQUIPO\source\repos\ejercicios algoritmia\Salario\obj\Debug\Salario.csprojAssemblyReference.cache
+C:\Users\EQUIPO\source\repos\ejercicios algoritmia\Salario\obj\Debug\Salario.csproj.CoreCompileInputs.cache
+C:\Users\EQUIPO\source\repos\ejercicios algoritmia\Salario\obj\Debug\Salario.exe
+C:\Users\EQUIPO\source\repos\ejercicios algoritmia\Salario\obj\Debug\Salario.pdb

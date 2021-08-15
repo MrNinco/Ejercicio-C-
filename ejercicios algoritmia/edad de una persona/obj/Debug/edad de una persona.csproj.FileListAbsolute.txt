@@ -1,0 +1,6 @@
+c:\users\equipo\source\repos\ejercicios algoritmia\edad de una persona\bin\Debug\edad de una persona.exe.config
+c:\users\equipo\source\repos\ejercicios algoritmia\edad de una persona\bin\Debug\edad de una persona.exe
+c:\users\equipo\source\repos\ejercicios algoritmia\edad de una persona\bin\Debug\edad de una persona.pdb
+c:\users\equipo\source\repos\ejercicios algoritmia\edad de una persona\obj\Debug\edad de una persona.csproj.CoreCompileInputs.cache
+c:\users\equipo\source\repos\ejercicios algoritmia\edad de una persona\obj\Debug\edad de una persona.exe
+c:\users\equipo\source\repos\ejercicios algoritmia\edad de una persona\obj\Debug\edad de una persona.pdb

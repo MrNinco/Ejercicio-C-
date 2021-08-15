@@ -1,0 +1,6 @@
+C:\Users\EQUIPO\source\repos\ejercicios algoritmia\Tienda\bin\Debug\Tienda.exe.config
+C:\Users\EQUIPO\source\repos\ejercicios algoritmia\Tienda\bin\Debug\Tienda.exe
+C:\Users\EQUIPO\source\repos\ejercicios algoritmia\Tienda\bin\Debug\Tienda.pdb
+C:\Users\EQUIPO\source\repos\ejercicios algoritmia\Tienda\obj\Debug\Tienda.csproj.CoreCompileInputs.cache
+C:\Users\EQUIPO\source\repos\ejercicios algoritmia\Tienda\obj\Debug\Tienda.exe
+C:\Users\EQUIPO\source\repos\ejercicios algoritmia\Tienda\obj\Debug\Tienda.pdb
